@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UseBSD.tech</title>
+    <link>/</link>
+    <description>Recent content on UseBSD.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(C) 2020</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 20:27:21 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 13 Jul 2020 20:27:21 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About I have been using FreeBSD since the 2.x Release and OpenBSD since around the 3.5 Release. I do not have much use with NetBSD but since OpenBSD is a basic copy of it I can say I have. Reason as to why I use BSD will be posted at a leter date.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 13 Jul 2020 20:27:21 +0200</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>/links/</link>
+      <pubDate>Mon, 13 Jul 2020 20:27:21 +0200</pubDate>
+      
+      <guid>/links/</guid>
+      <description>A few links to some informative sites about BSD
+BSD Hardware
+FreeBSD 
+OpenBSD</description>
+    </item>
+    
+    <item>
+      <title>New Post</title>
+      <link>/posts/new-site/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-site/</guid>
+      <description>The first post. First post for using, playing around and possibly replacing my site using a site generator.
+ Why: less server services running especially sql and PHP is a happier server Less: load on the server currently the highest usage are from php, sql Able to install OpenBSD and use it&amp;rsquo;s internal basic httpd Static files load fast just like they did in the early 90&amp;rsquo;s  </description>
+    </item>
+    
+  </channel>
+</rss>

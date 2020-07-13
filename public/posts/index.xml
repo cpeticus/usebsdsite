@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UseBSD.tech</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on UseBSD.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(C) 2020</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Post</title>
+      <link>/posts/new-site/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/new-site/</guid>
+      <description>The first post. First post for using, playing around and possibly replacing my site using a site generator.
+ Why: less server services running especially sql and PHP is a happier server Less: load on the server currently the highest usage are from php, sql Able to install OpenBSD and use it&amp;rsquo;s internal basic httpd Static files load fast just like they did in the early 90&amp;rsquo;s  </description>
+    </item>
+    
+  </channel>
+</rss>
